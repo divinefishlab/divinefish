@@ -2,8 +2,11 @@ import { BrowserRouter as Router, Routes,Route } from "react-router-dom";
 import { HomePage } from "./components/HomePage";
 import GameApp from "./game/GameApp";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { Suspense } from "react";
+import { Loader } from "@react-three/drei";
 function App() {
 return(
+  <Suspense fallback={<Loader/>}> 
   <Router>
     <Routes>
       <Route path="/" element={<HomePage/>} />
@@ -12,6 +15,8 @@ return(
       {/* <Route path="/home" element={<AppHome/>} /> */}
     </Routes>
 </Router>
+  </Suspense>
+
 );
 };
 

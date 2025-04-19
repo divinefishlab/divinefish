@@ -11,7 +11,7 @@ import { RickExperience } from "./RickExperience";
  const RickBanner=()=>{
     const navigate = useNavigate();
     return (
-        <section className="banner" id="home"> 
+        <section className="bannerrick" id='about'> 
         <Container>
             <Row className="align-items-center">
                 <Col xs={12} md={6} xl={6}>

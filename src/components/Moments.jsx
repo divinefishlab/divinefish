@@ -6,7 +6,8 @@ import ProjectCard from './ProjectCard';
 
 const Moments = () => {
   return (
-    <div>
+    <div id="stories">
+      <h1 className='text-center text-4xl font-bold'>Stories</h1>
         <Row className='mt-5 mb-5 ml-5 mr-8'>
         {fighters.map((project,index)=>{
             return(

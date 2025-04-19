@@ -267,33 +267,102 @@ const fighters =[
   {
       title: "Ragnar's",
       description:"Gurds of the mother land",
-      imgUrl:"/images/fish/Amazing.jpg",
+      imgUrl:"/images/fish/moneybag.jpg",
   },
   {
       title: "Hjalmar's",
       description:"Gurds of the mother land",
-      imgUrl:"/images/fish/whoKnows.jpg",
+      imgUrl:"/images/fish/happy.jpg",
   },
   {
       title: "Alfhar's",
       description:"Gurds of the mother land",
-      imgUrl:"/images/fish/TimeTicking.jpg",
+      imgUrl:"/images/fish/RockOut.jpg",
   },
   {
       title: "Gunnar's",
       description:"Gurds of the Marianne",
-      imgUrl:"/images/fish/ghostMode.jpg",
+      imgUrl:"/images/fish/yeah.jpg",
   },
   {
       title: "Oliver's",
       description:"Gurds of the Amaterasu",
-      imgUrl:"/images/fish/thinking.jpg",
+      imgUrl:"/images/fish/weekend.jpg",
   },
   {
       title: "Agnar's",
       description:"Gurds of the Hibernia",
       imgUrl:"/images/fish/what.jpg",
+  },
+  {
+      title: "Gunnar's",
+      description:"Gurds of the Marianne",
+      imgUrl:"/images/fish/fred5.jpg",
+  },
+  {
+      title: "Oliver's",
+      description:"Gurds of the Amaterasu",
+      imgUrl:"/images/fish/fred3.jpg",
+  },
+  {
+      title: "Agnar's",
+      description:"Gurds of the Hibernia",
+      imgUrl:"/images/fish/fred8.jpg",
   }
+  ,
+  {
+      title: "Agnar's",
+      description:"Gurds of the Hibernia",
+      imgUrl:"/images/fish/drink.jpg",
+  }
+  ,
+  {
+      title: "Agnar's",
+      description:"Gurds of the Hibernia",
+      imgUrl:"/images/fish/fred4.jpg",
+  }
+  ,
+  {
+      title: "Agnar's",
+      description:"Gurds of the Hibernia",
+      imgUrl:"/images/fish/fred3.jpg",
+  }
+  ,
+  // {
+  //     title: "Agnar's",
+  //     description:"Gurds of the Hibernia",
+  //     imgUrl:"/images/fish/fred4.jpg",
+  // }
+  // ,
+  // {
+  //     title: "Agnar's",
+  //     description:"Gurds of the Hibernia",
+  //     imgUrl:"/images/fish/fred5.jpg",
+  // }
+  // ,
+  // {
+  //     title: "Agnar's",
+  //     description:"Gurds of the Hibernia",
+  //     imgUrl:"/images/fish/RockOut.jpg",
+  // }
+  // ,
+  // {
+  //     title: "Agnar's",
+  //     description:"Gurds of the Hibernia",
+  //     imgUrl:"/images/fish/fred7.jpg",
+  // }
+  // ,
+  // {
+  //     title: "Agnar's",
+  //     description:"Gurds of the Hibernia",
+  //     imgUrl:"/images/fish/Fred8.jpg",
+  // }
+  // ,
+  // {
+  //     title: "Agnar's",
+  //     description:"Gurds of the Hibernia",
+  //     imgUrl:"/images/fish/fred6.jpg",
+  // }
 ]
 
 export {

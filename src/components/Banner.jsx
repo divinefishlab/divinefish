@@ -19,7 +19,9 @@ import { FishExperience } from "./FishExperience";
                 <h1>{'Fred The Fish'}<span className="wrap">!</span></h1>
                 <p>Fred the Fish is not just a quirky name in the crypto world—it's a symbol of innovation and community-driven values. 
                 As a cryptocurrency, Fred the Fish aims to combine the fun side of meme coins with a deeper purpose</p>
-                <button className="pointer-events-auto" onClick={() => {navigate('/game')}} >Let's Play<ArrowRightCircle size={25}/></button>
+                <button className="pointer-events-auto " onClick={() => {navigate('/game')}} >
+                    Let's Play
+                    <ArrowRightCircle size={25}/></button>
                 </Col>
                 <Col xs={12} md={6} xl={6}>
                 {/* <img src={logo} alt="Header img"/> */}
